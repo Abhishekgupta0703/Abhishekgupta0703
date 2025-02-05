@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👯 I’m looking to collaborate on **Project related to Web**
 
-- 👨‍💻 All of my projects are available at [https://abhishekgupta0703.github.io/Portfolio-2/](https://abhishekgupta0703.github.io/Portfolio-2/)
+- 👨‍💻 All of my projects are available at [https://abhishekgupta0703.github.io/Portfolio/](https://abhishekgupta0703.github.io/Portfolio/)
 
 - 💬 Ask me about **MERN, AI, Data Science & Cyber Security**
 
